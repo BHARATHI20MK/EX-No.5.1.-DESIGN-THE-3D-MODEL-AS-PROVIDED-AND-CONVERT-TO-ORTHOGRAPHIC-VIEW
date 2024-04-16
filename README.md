@@ -36,8 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-[edm ex5.1;;;.pdf](https://github.com/BHARATHI20MK/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/files/14995129/edm.ex5.1.pdf)
-
+![Screenshot 2024-04-16 153318](https://github.com/BHARATHI20MK/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/147474125/10f7a4f4-dd72-438b-a79c-996def389457)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
